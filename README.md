@@ -1,1 +1,1 @@
-# Arduino-AirCleaner
+# This is air cleaner of my design, it uses NodeMCU (ESP module) and arduino for processing data form blynk app or via google IFTTT. NodeMCU was responsible for reciveving and sending data over wifi and arduino concrolled LEDs and fans installed in device. STLs are of my own design.
